@@ -3,7 +3,10 @@
 * 매일매일 내가 공부한 내용을 업로드하는 챌린지입니다. 
 
 ## What I learned
-* [PyTorch로 시작하는 딥러닝 입문](https://wikidocs.net/52846) Chap.3 ~ Chap.6
+* [PyTorch로 시작하는 딥러닝 입문](https://wikidocs.net/52846) Chap.3 ~ Chap.6  
+**더 자세한 내용은 [노션](https://sunset-night-4e1.notion.site/PyTorch-7ada529df1c24a6cb5f206281dc8cabc)에서 보실 수 있습니다**
+
+
 
 |Date|Contents|Link|
 |------|---|---|
